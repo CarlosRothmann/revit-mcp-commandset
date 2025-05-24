@@ -72,11 +72,6 @@
     "commandName": "send_code_to_revit",
     "namespace": "RevitMCPCommandSet.Commands.ExecuteDynamicCode",
     "description": "Compile and run dynamic C# code in Revit"
-  },
-  {
-    "commandName": "delete_element",
-    "namespace": "RevitMCPCommandSet.Commands.Delete",
-    "description": "Delete elements by ID (command currently commented)"
   }
 ]
 }
