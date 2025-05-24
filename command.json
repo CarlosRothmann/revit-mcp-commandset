@@ -1,0 +1,17 @@
+{
+  "name": "CommandSet",
+  "description": "Personal command collection for Revit AI assistance",
+  "developer": {
+    "name": "revit-mcp",
+    "email": "",
+    "website": "",
+    "organization": "revit-mcp"
+  },
+  "commands": [
+    {
+      "commandName": "",
+      "description": "",
+      "assemblyPath": "SampleCommandSet.dll"
+    }
+  ]
+}
