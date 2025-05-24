@@ -8,11 +8,6 @@
     "organization": "revit-mcp"
   },
   "commands": [
-    {
-      "commandName": "",
-      "description": "",
-      "assemblyPath": "SampleCommandSet.dll"
-    },
   {
     "commandName": "ai_element_filter",
     "namespace": "RevitMCPCommandSet.Commands",
