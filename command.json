@@ -1,0 +1,72 @@
+[
+  {
+    "commandName": "ai_element_filter",
+    "namespace": "RevitMCPCommandSet.Commands",
+    "description": "Filter elements by custom settings and return their information"
+  },
+  {
+    "commandName": "create_line_based_element",
+    "namespace": "RevitMCPCommandSet.Commands",
+    "description": "Create line-based elements such as walls or ducts from line data"
+  },
+  {
+    "commandName": "create_point_based_element",
+    "namespace": "RevitMCPCommandSet.Commands",
+    "description": "Create point-based elements at specified locations"
+  },
+  {
+    "commandName": "create_surface_based_element",
+    "namespace": "RevitMCPCommandSet.Commands",
+    "description": "Create surface-based elements like floors from surface definitions"
+  },
+  {
+    "commandName": "color_splash",
+    "namespace": "RevitMCPCommandSet.Commands",
+    "description": "Apply colors to elements of a category based on parameter values"
+  },
+  {
+    "commandName": "operate_element",
+    "namespace": "RevitMCPCommandSet.Commands",
+    "description": "Perform operations on elements such as select, hide, isolate, color or delete"
+  },
+  {
+    "commandName": "tag_walls",
+    "namespace": "RevitMCPCommandSet.Commands",
+    "description": "Tag walls in the active view"
+  },
+  {
+    "commandName": "get_available_family_types",
+    "namespace": "RevitMCPCommandSet.Commands.Access",
+    "description": "List available family types filtered by category and name"
+  },
+  {
+    "commandName": "get_current_view_elements",
+    "namespace": "RevitMCPCommandSet.Commands.Access",
+    "description": "Retrieve elements in the current view with optional filters"
+  },
+  {
+    "commandName": "get_current_view_info",
+    "namespace": "RevitMCPCommandSet.Commands.Access",
+    "description": "Get information about the active view"
+  },
+  {
+    "commandName": "get_selected_elements",
+    "namespace": "RevitMCPCommandSet.Commands.Access",
+    "description": "Return information for currently selected elements"
+  },
+  {
+    "commandName": "create_dimensions",
+    "namespace": "RevitMCPCommandSet.Commands.AnnotationComponents",
+    "description": "Create dimension annotations between elements or points"
+  },
+  {
+    "commandName": "send_code_to_revit",
+    "namespace": "RevitMCPCommandSet.Commands.ExecuteDynamicCode",
+    "description": "Compile and run dynamic C# code in Revit"
+  },
+  {
+    "commandName": "delete_element",
+    "namespace": "RevitMCPCommandSet.Commands.Delete",
+    "description": "Delete elements by ID (command currently commented)"
+  }
+]
